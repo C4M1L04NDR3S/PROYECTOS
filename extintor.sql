@@ -1,6 +1,5 @@
 -- Camilo Andrés Mañosca Burbano
 -- Angie Michel Cardenas Belalcazar
--- Joisy Pamela Rodallegas
 
 -- Tabla para los Extintores
 CREATE TABLE extintor (
